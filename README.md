@@ -84,7 +84,7 @@ git commit -m "Initial commit"
 git push origin main
 
 Commits and Strategy
-A total of three (3) commits were made, each with clear and descriptive messages such as "Added section".
+A total of six (6) commits were made, each with clear and descriptive messages such as "Added section".
 
 Importance of Version Control
 Version control allows developers to track changes, collaborate effectively, maintain backups, and revert to previous versions when they make an error.
