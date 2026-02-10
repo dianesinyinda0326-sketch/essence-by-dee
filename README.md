@@ -112,5 +112,5 @@ Student Information
 
 Student Name: Diane Sinyinda 
 Student ID: [2507394530] 
-GitHub Repository: []
+GitHub Repository: [https://github.com/dianesinyinda0326-sketch/essence-by-dee]
 
