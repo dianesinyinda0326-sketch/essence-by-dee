@@ -11,9 +11,7 @@ Home (introduction)
 
 About Me
 
-Skills
-
-Projects
+services 
 
 Contact Information
 
@@ -96,7 +94,7 @@ Question 6: Code Quality and Best Practices
 Valid HTML
 
 Best Practices Followed
-Use of semantic HTML elements
+Use of HTML elements
 
 Ensured all HTML tags were properly opened and closed 
 Consistent inspection and formatting
